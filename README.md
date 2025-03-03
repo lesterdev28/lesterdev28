@@ -1,6 +1,6 @@
 # JAN LESTER OROT
 
-Front-End Developer<br/>
+Front-End | Back-End Developer<br/>
 
 "I'm a passionate Software Developer who loves building efficient, scalable, and user-friendly applications. I specialize in crafting clean, maintainable code and solving complex problems."
 
